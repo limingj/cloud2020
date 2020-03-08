@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="401d37af-37e8-4485-ab40-44bd99ee6a8d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud2020.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/cloud2020-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/java/com/atguigu/gitDev.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/java/com/atguigu/gitDev.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -28,7 +20,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="dev" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -112,7 +104,7 @@
       <option name="presentableId" value="Default" />
       <updated>1583549729992</updated>
       <workItem from="1583549734067" duration="4437000" />
-      <workItem from="1583631740081" duration="7214000" />
+      <workItem from="1583631740081" duration="7559000" />
     </task>
     <task id="LOCAL-00001" summary="springCloud支付模块">
       <created>1583633602150</created>
@@ -135,7 +127,14 @@
       <option name="project" value="LOCAL" />
       <updated>1583634698731</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="test冲突解决">
+      <created>1583642026574</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1583642026574</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -145,17 +144,18 @@
     <MESSAGE value="springCloud支付模块" />
     <MESSAGE value="dev第一次提交" />
     <MESSAGE value="dev冲突" />
-    <option name="LAST_COMMIT_MESSAGE" value="dev冲突" />
+    <MESSAGE value="test冲突解决" />
+    <option name="LAST_COMMIT_MESSAGE" value="test冲突解决" />
   </component>
   <component name="WindowStateProjectService">
     <state x="386" y="2" key="#Project_Structure" timestamp="1583634122860">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="386" y="2" key="#Project_Structure/0.0.1280.680@0.0.1280.680" timestamp="1583634122860" />
-    <state x="345" y="0" key="CommitChangelistDialog2" timestamp="1583634688507">
+    <state x="345" y="0" key="CommitChangelistDialog2" timestamp="1583642020893">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="345" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1583634688507" />
+    <state x="345" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1583642020893" />
     <state x="117" y="131" width="1029" height="481" key="DiffContextDialog" timestamp="1583642003444">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -192,10 +192,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="288" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1583550752236" />
-    <state x="386" y="78" width="814" height="525" key="Vcs.Push.Dialog.v2" timestamp="1583641976843">
+    <state x="386" y="78" width="814" height="525" key="Vcs.Push.Dialog.v2" timestamp="1583642264206">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="386" y="78" width="814" height="525" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1583641976843" />
+    <state x="386" y="78" width="814" height="525" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1583642264206" />
     <state x="572" y="184" key="com.intellij.ide.util.TipDialog" timestamp="1583631760955">
       <screen x="0" y="0" width="1280" height="680" />
     </state>

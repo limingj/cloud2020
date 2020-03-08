@@ -7,5 +7,8 @@ public class gitDev {
 		System.out.println("修改同一个代码冲突产生");
 		//test
 		System.out.println("test");
+
+		//master
+		System.out.println("master");
 	}
 }
